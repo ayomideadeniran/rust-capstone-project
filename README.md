@@ -99,3 +99,11 @@ These rules are designed to enhance your understanding of the technical aspects 
 - [Bitcoin Core Documentation](https://developer.bitcoin.org/)
 - [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
 - [Bitcoin Core RPC Documentation](https://developer.bitcoin.org/reference/rpc/)
+
+
+
+
+
+
+
+
